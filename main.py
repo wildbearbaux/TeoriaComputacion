@@ -74,7 +74,7 @@ class InterfazProyectoFinal:
         # =====================================================================
         self.configuraciones_tv = [
             {
-                'nombre': "SAMSUNG (Lineal Largo + Lazo)",
+                'nombre': "SAMSUNG",
                 'color': '#89b4fa',
                 'Q': ['q0', 'q1', 'q2', 'q3', 'q4', 'q5', 'q6', 'q7', 'q8', 'q9', 'qE'],
                 'q0': 'q0', 'F': ['q9'],
@@ -90,7 +90,7 @@ class InterfazProyectoFinal:
                 ]
             },
             {
-                'nombre': "LG (Largo + 2 Finales)",
+                'nombre': "LG",
                 'color': '#f38ba8',
                 'Q': ['q0', 'q1', 'q2', 'q3', 'q4', 'q5', 'q6', 'qF1', 'qF2', 'qE'],
                 'q0': 'q0', 'F': ['qF1', 'qF2'],
@@ -109,7 +109,7 @@ class InterfazProyectoFinal:
                 ]
             },
             {
-                'nombre': "SONY (Diamante: Bifurcación/Fusión)",
+                'nombre': "SONY",
                 'color': '#cba6f7',
                 'Q': ['q0', 'q1', 'q2', 'q3', 'q4a', 'q4b', 'q5', 'q6', 'q7', 'q8', 'q9', 'qE'],
                 'q0': 'q0', 'F': ['q9'],
@@ -130,7 +130,7 @@ class InterfazProyectoFinal:
                 ]
             },
             {
-                'nombre': "HISENSE (Topología Monstruo)",
+                'nombre': "HISENSE",
                 'color': '#fab387',
                 'Q': ['q0', 'q1', 'q2', 'q3', 'q4', 'q5a', 'q5b', 'q6', 'qF1', 'qF2', 'qE'],
                 'q0': 'q0', 'F': ['qF1', 'qF2'],
